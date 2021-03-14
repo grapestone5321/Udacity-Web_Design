@@ -11,6 +11,11 @@ Udacity-Web_Design
 
 ## 3. Web Accessibility
 
+## 4. Website Performance Optimization
+
+
+## 5. Offline Web Applications
+
 
 -------
 
@@ -60,6 +65,41 @@ Finally, you’ll learn styling techniques that help users with partial vision n
 This course is also featured in our Full-Stack Web Developer Nanodegree program.
 
 
+-------
+
+## 4. Website Performance Optimization
+byGoogle
+
+The Critical Rendering Path
+
+You will learn how to optimize any website for speed by diving into the details of how mobile and desktop browsers render pages.
+
+In this short course, you’ll learn about the Critical Rendering Path, or the set of steps browsers must take to convert HTML, CSS and JavaScript into living, breathing websites. 
+
+From there, you’ll start exploring and experimenting with tools to measure performance and simple strategies to deliver the first pixels to the screen as early as possible. 
+
+You’ll learn how to dive into recommendations from PageSpeed Insights and the Timeline view of Google Chrome’s Developer Tools to find the data you need to achieve immediate performance boosts!
+
+This course is also a part of our Front-End Web Developer Nanodegree.
+
+
+-------
+
+## 5. Offline Web Applications
+byGoogle
+
+Using IndexedDB & Service Worker
+
+
+This course is focused squarely on user experience, and seeks to show developers how thinking offline-first is the best way to ensure that applications perform their best in all scenarios, not just ideal ones. 
+
+You'll learn to recognize the differences between good, poor, intermittent, and missing connectivity for your users , and master how to make applications that navigate these conditions with ease.
+
+Using the skills you master in this course, you'll conclude by building an app that that works both online and offline, and loads in new data when it can. You'll be a master of the cache! 
+
+Your web apps will interact with the network just like native apps do. 
+
+This will lead to better user experiences even in traditionally challenging connection scenarios like being stuck in a train tunnel, having to rely on over-crowded conference Wi-Fi, or traveling through a cellular "dead zone!"
 
 
 
