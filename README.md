@@ -16,6 +16,7 @@ Udacity-Web_Design
 
 ## 5. Offline Web Applications
 
+## 6. AutoLayout
 
 -------
 
@@ -101,6 +102,22 @@ Your web apps will interact with the network just like native apps do.
 
 This will lead to better user experiences even in traditionally challenging connection scenarios like being stuck in a train tunnel, having to rely on over-crowded conference Wi-Fi, or traveling through a cellular "dead zone!"
 
+-------
+
+
+## 6. AutoLayout
+
+Using Constraint-Based Design
+
+With this course, you will learn about AutoLayout and how to use stack views and constraints to create pixel-perfect UIs.
+
+Also, you will take a deep dive and learn about some of the most commonly misunderstood properties affecting layout like distribution, alignment, content hugging, and compression resistance.
+
+Then, you will put all of this knowledge to use and start creating functional interfaces with multiple stack views and UI elements. 
+
+In fact, you will recreate an interface from a very well known app. 
+
+And, by the end of this course, you will be ready to create beautiful interfaces from scratch.
 
 
 -------
